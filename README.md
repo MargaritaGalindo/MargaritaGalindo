@@ -1,7 +1,7 @@
 ### ¡Hola!
+Soy Margarita y estoy aprendiendo a usar GitHub
 
--  Aprendiendo a usar GitHub
--  Estoy estudiando Ingeniería Electrónica, Robótica y Mecatrónica
+-  Estudiante del Grado en Ingeniería Electrónica, Robótica y Mecatrónica
 -  Actualmente estoy usando este programa para la asignatura de Laboratorio de Robótica
--  Contactar: margalveg6@uma.es
+-  Contacto: margalveg6@uma.es
 
